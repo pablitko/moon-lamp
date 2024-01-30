@@ -1,5 +1,3 @@
-# Complete project details at https://RandomNerdTutorials.com
-
 #r, g, b = ap[0]
 
 # def web_page():
